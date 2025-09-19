@@ -28,6 +28,12 @@ src/
 ├── mocks/            # MSW API handlers
 └── utils/            # Utility functions
 ```
+## Screenshots
+<img width="1898" height="907" alt="image" src="https://github.com/user-attachments/assets/b535ba0e-baaf-4122-a805-883a17abcb33" />
+<img width="1902" height="908" alt="Screenshot 2025-09-19 193717" src="https://github.com/user-attachments/assets/63647dec-ec08-48d8-9696-b5f958d8dfe9" />
+<img width="1899" height="905" alt="Screenshot 2025-09-19 193745" src="https://github.com/user-attachments/assets/7cc90eca-8877-4c6f-bd70-ebf281776773" />
+<img width="1906" height="907" alt="image" src="https://github.com/user-attachments/assets/772c529c-3393-46a7-b3b7-5702c718f794" />
+
 
 ## 🚀 Getting Started
 
@@ -51,15 +57,6 @@ The app automatically seeds the database with:
 - 1000+ candidates with realistic names and data
 - 3+ assessment templates with multiple question types
 - Timeline events and candidate relationships
-
-## 🔧 Development Guidelines
-
-### Adding New Features
-1. Create components in appropriate directories
-2. Use established patterns for forms and API calls
-3. Follow the existing naming conventions
-4. Add proper error handling and loading states
-5. Update seed data if needed
 
 ## 🚀 Deployment
 

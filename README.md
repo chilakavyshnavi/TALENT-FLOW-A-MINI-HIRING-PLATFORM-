@@ -28,10 +28,11 @@ src/
 ├── mocks/            # MSW API handlers
 └── utils/            # Utility functions
 ```
+
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b535ba0e-baaf-4122-a085-883a17abcb33" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4491ccb1-a39a-41c0-9fe3-9ad8fe0084e2" width="400"/></td>
     <td><img src="https://github.com/user-attachments/assets/63647dec-ec08-48d8-9696-b5f958d8dfe9" width="400"/></td>
   </tr>
   <tr>

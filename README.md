@@ -29,10 +29,16 @@ src/
 └── utils/            # Utility functions
 ```
 ## Screenshots
-<img width="1898" height="907" alt="image" src="https://github.com/user-attachments/assets/b535ba0e-baaf-4122-a805-883a17abcb33" />
-<img width="1902" height="908" alt="Screenshot 2025-09-19 193717" src="https://github.com/user-attachments/assets/63647dec-ec08-48d8-9696-b5f958d8dfe9" />
-<img width="1899" height="905" alt="Screenshot 2025-09-19 193745" src="https://github.com/user-attachments/assets/7cc90eca-8877-4c6f-bd70-ebf281776773" />
-<img width="1906" height="907" alt="image" src="https://github.com/user-attachments/assets/772c529c-3393-46a7-b3b7-5702c718f794" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b535ba0e-baaf-4122-a085-883a17abcb33" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/63647dec-ec08-48d8-9696-b5f958d8dfe9" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7cc90eca-8877-4c6f-bd70-ebf281776773" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/772c529c-3393-46a7-b3b7-5702c718f794" width="400"/></td>
+  </tr>
+</table>
 
 
 ## 🚀 Getting Started

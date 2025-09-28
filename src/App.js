@@ -14,7 +14,6 @@ import CandidatesPage from './pages/CandidatesPage';
 import CandidateDetail from './pages/CandidateDetail';
 import AssessmentsPage from './pages/AssessmentsPage';
 import AssessmentBuilder from './pages/AssessmentBuilder';
-import AssessmentTaker from './pages/AssessmentTaker';
 import './App.css';
 
 function App() {
@@ -174,7 +173,6 @@ function App() {
                   <AssessmentBuilder />
                 </Layout>
               } />
-              <Route path="/assessments/:assessmentId/take" element={<AssessmentTaker />} />
             </Routes>
             <Toaster
               position="top-right"
